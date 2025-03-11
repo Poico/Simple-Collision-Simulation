@@ -7,4 +7,4 @@ I use Python OpenGl to represent the particles visually.
 
 ## Demo
 
-[ParticleThing.gif]
+![](ParticleThing.gif)
